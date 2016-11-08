@@ -218,7 +218,7 @@ pip-log.txt
 #Unity3D
 Library
 Temp
-*. pidb
-*. unityproj
-* .. sln
-*. userprefs
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
